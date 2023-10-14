@@ -6,8 +6,8 @@
 
 - Make changes to JSON file
 - `qmk import-keymap /home/sondrelg/repos/keyboard/keymap.json`
-- `qmk compile -kb beekeeb/piantor -km sondre_piantor_v2`
 - `qmk flash -kb beekeeb/piantor -km sondre_piantor_v2`
+- Unplug the keyboard usb-c cable, and hold the BOOTSEL button when plugging it back in
 
 ## Layer 0
 ![img.png](img.png)
